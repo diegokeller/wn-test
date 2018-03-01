@@ -1,13 +1,13 @@
-package com.wn.game;
+package com.wn.question2;
 
 import java.util.HashSet;
 import java.util.Set;
 
-import com.wn.game.characters.Character;
-import com.wn.game.characters.Daryl;
-import com.wn.game.characters.Michonne;
-import com.wn.game.characters.Negan;
-import com.wn.game.characters.Rick;
+import com.wn.question2.characters.Character;
+import com.wn.question2.characters.Daryl;
+import com.wn.question2.characters.Michonne;
+import com.wn.question2.characters.Negan;
+import com.wn.question2.characters.Rick;
 
 public class CharacterSet {
 

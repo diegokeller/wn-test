@@ -1,4 +1,4 @@
-package com.wn.game.weapons;
+package com.wn.question2.weapons;
 
 public class BowAndArrow extends Weapon {
 	

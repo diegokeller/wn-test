@@ -1,6 +1,6 @@
-package com.wn.game;
+package com.wn.question2;
 
-import com.wn.game.characters.Character;
+import com.wn.question2.characters.Character;
 
 public class Player {
 	

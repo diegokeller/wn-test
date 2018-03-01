@@ -1,4 +1,4 @@
-package com.wn.game;
+package com.wn.question2;
 
 public class Simulation {
 

@@ -1,13 +1,13 @@
-package com.wn.game;
+package com.wn.question2;
 
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-import com.wn.game.weapons.BaseballBat;
-import com.wn.game.weapons.BowAndArrow;
-import com.wn.game.weapons.Katana;
-import com.wn.game.weapons.Revolver;
-import com.wn.game.weapons.Weapon;
+import com.wn.question2.weapons.BaseballBat;
+import com.wn.question2.weapons.BowAndArrow;
+import com.wn.question2.weapons.Katana;
+import com.wn.question2.weapons.Revolver;
+import com.wn.question2.weapons.Weapon;
 
 public class WeaponSet {
 	

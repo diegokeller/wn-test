@@ -1,9 +1,9 @@
-package com.wn.game.characters;
+package com.wn.question2.characters;
 
 import java.util.Iterator;
 
-import com.wn.game.WeaponSet;
-import com.wn.game.weapons.Weapon;
+import com.wn.question2.WeaponSet;
+import com.wn.question2.weapons.Weapon;
 
 public abstract class Character {
 
